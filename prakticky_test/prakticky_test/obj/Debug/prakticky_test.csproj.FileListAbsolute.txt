@@ -1,0 +1,10 @@
+G:\PRG\prakticky_test\prakticky_test\bin\Debug\prakticky_test.exe.config
+G:\PRG\prakticky_test\prakticky_test\bin\Debug\prakticky_test.exe
+G:\PRG\prakticky_test\prakticky_test\bin\Debug\prakticky_test.pdb
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.csprojAssemblyReference.cache
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.Form1.resources
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.Properties.Resources.resources
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.csproj.GenerateResource.cache
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.csproj.CoreCompileInputs.cache
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.exe
+G:\PRG\prakticky_test\prakticky_test\obj\Debug\prakticky_test.pdb
